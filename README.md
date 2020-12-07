@@ -22,7 +22,7 @@ After installing ***pyinstaller***, then change the extension name of your scrip
 ```
 ## Step 4
 Now your executable file is ready. Finally, you can find your desired file [clock.exe](https://github.com/MizanMustakim/Digital-Clock-Desktop-Application/blob/main/clock.exe)
-on [dist]() folder, run it and enjoy your new invention!
+in **dist** folder of your project folder, run it and enjoy your new invention!
 
 
 # Happy Coding. ✌
