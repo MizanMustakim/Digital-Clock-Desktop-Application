@@ -1,6 +1,7 @@
 # Digital Clock Desktop Application
 
-![image](https://user-images.githubusercontent.com/56040932/101289739-8e2b9400-3828-11eb-9334-7be38020ef3f.png)
+![image](https://user-images.githubusercontent.com/56040932/101377352-e8d1f800-38db-11eb-9326-b051929e45c9.png)
+
 
 
 ## Step 1
